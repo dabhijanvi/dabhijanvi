@@ -13,9 +13,9 @@
 🌱 i also know some languages like HTML , CSS ,  java , .net , python ,php<br>
 🔭 I have done two Web Devlopment projects in my last 2 sem.<br>
 ✔ First one is SERVICE PROVIDER website : To create a responsible and user-froendly service provider platform.The main purpose of this website is to offering a variety of service at home.<br> 
-          🖇 https:////<br>
+          
 ✔ second one is real-e-state website: the primary purpose of real-e-state website is to facilitate and buying,selling and renting of properties.<br>
-           🖇 https:////<br>
+           
 
 📫 Reach me on - dabhijanvi681@gmail.com
 <h2 align="left">socials</h2>
