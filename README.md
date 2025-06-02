@@ -7,7 +7,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-👋 Hi! I'm Janvi Dabhi.<br>
+👋 Hi! I'm Janvi Dabhi, from Surendranagar.<br>
 ✅ I completed a Bachelor's degree in Bachelor of computer Application, where I developed strong skills in Javascript and Web Devlopment.<br>
 💻 Proficient in , JavaScript, React.js<br>
 🌱 i also know some languages like HTML , CSS ,  java , .net , python ,php<br>
